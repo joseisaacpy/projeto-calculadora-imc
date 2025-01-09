@@ -41,6 +41,11 @@ form h1 {
   margin: 10px 0;
   text-align: center;
 }
+/* resposta h2 */
+h2 {
+  margin: 10px 0;
+  text-align: center;
+}
 /* labels */
 form label {
   font-weight: bold;
